@@ -36,6 +36,6 @@ Cleaned and validated customer data by handling missing values, duplicates, data
 
 
 ## 📁 Repository Files
-* 💾 [`messy_customer_sales_data.csv`](data/messy_customer_sales_data.csv) — Raw data file used for manalysis.
 * 🖼️ [`DataCleaningProcess.ipynb`](Notebook/DataCleaningProcess.ipynb) — Data Cleaning Notebook.
 * 🖼️ [`EDA_python.ipynb`](Notebook/EDA_python.ipynb) — EDA Notebook.
+* 💾 [`messy_customer_sales_data.csv`](data/messy_customer_sales_data.csv) — Raw data file used for manalysis.
