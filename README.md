@@ -57,7 +57,7 @@ Business Usage: Helps identify differences in spending behavior across customer 
 Applied K-Means clustering on PCA-transformed customer data to identify distinct customer segments and visualized the clusters using PCA components.
 
 Business Usage: Helps group customers with similar behaviors to support targeted marketing, personalized offers, customer retention, and campaign optimization.
-![K-Means](Visuals/KMenasClustering.png)
+![K-Means](Visuals/KMeansClustering.png)
 
 ### 5. Purchase Pattern Heatmap
 
