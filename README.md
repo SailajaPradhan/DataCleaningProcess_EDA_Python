@@ -70,4 +70,5 @@ Business Usage: Helps identify high-performing purchase periods and seasonal spe
 ## 📁 Repository Files
 * 🖼️ [`DataCleaningProcess.ipynb`](Notebook/DataCleaningProcess.ipynb) — Data Cleaning Notebook.
 * 🖼️ [`EDA_python.ipynb`](Notebook/EDA_python.ipynb) — EDA Notebook.
-* 💾 [`messy_customer_sales_data.csv`](data/messy_customer_sales_data.csv) — Raw data file used for manalysis.
+* 💾 [`messy_customer_sales_data.csv`](data/messy_customer_sales_data.csv) — Raw data file used for analysis.
+
